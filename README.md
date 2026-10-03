@@ -1,6 +1,6 @@
-# Raw Pressery | Alphonso Mango Cold-Pressed Landing Web App
+# Satya Raw Pressery | Alphonso Mango Cold-Pressed Landing Web App
 
-An interactive, responsive product landing page for **Raw Pressery Alphonso Mango** cold-pressed juice featuring smooth scroll-driven 360° bottle spin, interactive sound effects, flavor switcher, and a custom basket/checkout drawer.
+An interactive, responsive product landing page for **Satya Raw Pressery Alphonso Mango** cold-pressed juice featuring smooth scroll-driven 360° bottle spin, interactive sound effects, flavor switcher, and a custom basket/checkout drawer.
 
 ## 🌟 Features
 
