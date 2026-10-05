@@ -11,6 +11,10 @@ An interactive, responsive product landing page for **Satya Raw Pressery Alphons
 - **Flavor Showcase**: Explore Alphonso Mango, Pink Guava Glow, and Valencia Orange.
 - **Nutritional Facts & Benefits**: Transparent cold-pressed details and HPP preservation highlights.
 
+## 📘 Process & Development Guide
+
+For a simple step-by-step explanation of how this project was built and made responsive, check out [`PROJECT_PROCESS.md`](PROJECT_PROCESS.md).
+
 ## 🚀 Quick Start
 
 1. Clone or download this repository.
